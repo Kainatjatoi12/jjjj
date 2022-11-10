@@ -1,0 +1,22 @@
+public class task 3
+  
+{
+   public static void main(String[] args){
+    int a = 5;
+    int b = 5;
+    int c = 10;
+    int d = 20;
+    
+    System.out.println("a + b = " +(a +b)  );
+    System.out.println("a - b = " +(a - b) );
+    Systen.out.println("a * b = "+(a * b)  ):
+    System.out.println("b \ a = "+(b \ a)  );
+    System.out.println("b % a = "+(b % a)  );
+    System.out.println("c % a = "+(c % a)  );
+    System.out.println("a++   = "+(a++)    );
+    System.out.println("a--   = "+(a--)    );
+    \\ check the difference in d++ and ++d
+    System.out.println("d++   = "+ (d++)   );
+    System.out.println("++d   = "+(++d)    );
+  }
+}

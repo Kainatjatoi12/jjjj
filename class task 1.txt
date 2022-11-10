@@ -1,0 +1,34 @@
+  public class Task 1
+ 
+ {
+  
+   public static void main(String[]args){
+
+
+   byte byteVariable = 1000;
+   short shortVariable = 10000;
+   int inVariable = 100000;
+   long longVariable = 1000000;
+
+
+   float floatVariable = 10.5f;
+   double doubleVariable = 100.5;
+  
+   char charVariable ='A';
+   boolean booleanVaraible = true;
+
+   String stringVariable = "This is a string";
+
+   System. out.println("byteVaraiable: "+ byteVariable);
+   System. out.println("shortVarable: "+ shortVariable);
+   System. out.println("intVaraible: "+intVaraible);
+   System. out.println("longVariable: "+longVariable);
+   System. out.println("floatVariable: "+floatVariable);
+   System. out.println("doubleVariable: "+doubleVariable);
+   System. out.println("charVariable: "+charVariable);
+   System. out.println("booleanVariable: "+booleanVariable);
+   System. out.println("stringVariable: "+stringVariable);
+
+  }
+
+}
